@@ -1,0 +1,4 @@
+Project Repository Link: 
+[Insert your full GitHub/GitLab URL here, e.g., https://github.com/yourusername/restaurant-shift-viewer]
+
+Note: The required project descriptions and architecture details are located in the README.md file at the root of the repository.
