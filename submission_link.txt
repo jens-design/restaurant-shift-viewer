@@ -1,4 +1,4 @@
 Project Repository Link: 
-[https://github.com/jens-design/restaurant-shift-viewer]
+https://github.com/jens-design/restaurant-shift-viewer
 
 Note: The required project descriptions and architecture details are located in the README.md file at the root of the repository.
