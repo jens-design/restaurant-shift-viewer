@@ -17,7 +17,7 @@ The target deployment device is a **Raspberry Pi Zero 2W**. To ensure the applic
 * The application relies on lightweight, native PHP functions rather than heavy external libraries.
 * Database queries are kept simple and indexed to reduce CPU load on the RPi.
 * The frontend uses minimal assets to ensure fast delivery over local networks.
-##Database
+## Database
 restaurant-shift-viewer/
 ├── config/
 │   └── database.php   # Handles the connection to MariaDB
