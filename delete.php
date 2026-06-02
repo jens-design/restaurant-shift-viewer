@@ -7,3 +7,4 @@ $stmt->execute([$id]);
 header('Location: index.php');
 exit;
 ?>
+#delete
