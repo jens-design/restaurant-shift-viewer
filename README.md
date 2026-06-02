@@ -17,3 +17,16 @@ The target deployment device is a **Raspberry Pi Zero 2W**. To ensure the applic
 * The application relies on lightweight, native PHP functions rather than heavy external libraries.
 * Database queries are kept simple and indexed to reduce CPU load on the RPi.
 * The frontend uses minimal assets to ensure fast delivery over local networks.
+##Database
+restaurant-shift-viewer/
+├── config/
+│   └── database.php   # Handles the connection to MariaDB
+├── database/
+│   └── schema.sql     # Your 3NF SQL database tables
+├── public/
+│   ├── index.php      # Member Intro page & main dashboard
+│   ├── create.php     # Form to add a new shift
+│   ├── edit.php       # Form to update a shift
+│   └── delete.php     # Logic to remove a shift
+├── README.md
+└── Contributors.md
